@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,CCTV-1 综合（兼容源）
-http://117.148.179.155/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1,CCTV-13 新闻（兼容源）
-http://117.148.179.155/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1,CCTV-1（海外线路）
+http://tv.nkdy.cc/cctv1.m3u8
+#EXTINF:-1,CCTV-13（海外线路）
+http://tv.nkdy.cc/cctv13.m3u8
