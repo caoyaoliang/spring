@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,CCTV-1 综合（春晚）
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv1.m3u8
+#EXTINF:-1,CCTV-13 新闻（备用）
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
